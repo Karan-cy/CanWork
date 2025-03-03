@@ -86,7 +86,7 @@ text
 ---
 
 ## **Contributors**
-- [Agambir Singh](https://github.com/AgambirSingh) [Karandeep Singh](https://github.com/Karan-cy)
+- [Karandeep Singh](https://github.com/Karan-cy)
 
 ---
 
